@@ -6,8 +6,6 @@ distributed_storage posts compilation.
 
 - [Infiniband网卡安装、使用总结](https://github.com/sctb512/distributed_storage/blob/master/files/Infiniband网卡安装、使用总结.md)
 
-- [Linux内核中块层上的多队列](https://github.com/sctb512/distributed_storage/blob/master/files/Linux内核中块层上的多队列.md)
-
 - [Linux内核模块开发（api通信）](https://github.com/sctb512/distributed_storage/blob/master/files/Linux内核模块开发（api通信）.md)
 
 - [Linux内核模块开发（简单）](https://github.com/sctb512/distributed_storage/blob/master/files/Linux内核模块开发（简单）.md)
