@@ -1,7 +1,7 @@
-# virtual_memory
-virtual_memory data compilation
+# distributed_storage
+distributed_storage posts
 
-虚拟存储相关资料整理：
+分布式存储相关资料整理：
 
 - 待更新
 
